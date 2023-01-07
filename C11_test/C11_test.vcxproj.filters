@@ -81,6 +81,12 @@
     <ClCompile Include="cpp_vtable.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="multi_vptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_command.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="signalcpp.h">

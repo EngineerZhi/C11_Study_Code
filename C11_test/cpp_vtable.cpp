@@ -108,7 +108,7 @@ namespace {
 	}
 } // namespace
 
-int main()
+int main_vtable()
 {
 	//TestVFuncArr();
 	//TestVtprValue();
